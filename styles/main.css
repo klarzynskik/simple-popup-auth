@@ -1,0 +1,27 @@
+@import url('@livechat/design-system/dist/design-system.css');
+
+html,
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: absolute;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.view-container {
+  display: block;
+  padding-top: 21px;
+  width: 100%;
+  margin: 4px 0px;
+  position: relative;
+  max-width: 250px;
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
+  border: 2px;
+}
