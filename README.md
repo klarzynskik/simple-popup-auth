@@ -2,7 +2,7 @@
 
 > This project was bootstrapped using [LiveChat Developer Console CLI](https://github.com/livechat/dps-cli)
 
-This app was created as the follow-up to the following blog post: [Stubbing OAuth Popup Authorization with Cypress](https://developers.livechat.com/).
+This app was created as the follow-up to the following blog post: [Stubbing OAuth Popup Authorization with Cypress](https://developers.livechat.com/updates/cypress-stubbing-popup-auth).
 
 ## 🚀 Getting Started
 
